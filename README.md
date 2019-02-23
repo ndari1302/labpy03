@@ -56,7 +56,7 @@ Contoh gambar dari codingannya
 
 ![](https://github.com/ndari1302/labpy03/blob/master/hasilcoding1.png)		
 
-Latihan2
+# Latihan2
 
 ![](https://github.com/ndari1302/labpy03/blob/master/Latihan2coding.png)
 
@@ -89,6 +89,7 @@ print("Bilangan Terbesar = ", max)
 input("\n")
 ```
 Hasil Codingan
+
 ![](https://github.com/ndari1302/labpy03/blob/master/hasilcoding2.png)
 
 # Program1
@@ -104,3 +105,9 @@ dieksekusi sampai seluruh urutan habis.
 Jika dijalankan maka Hasil nya
 
 ![](https://github.com/ndari1302/labpy03/blob/master/hasilcoding3.png)
+
+Sekian Terima Kasih
+
+Sri Sundari
+
+NIM 311810780
